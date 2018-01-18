@@ -67,7 +67,7 @@ Ce graphique représente la balance commerciale de l'Angleterre avec le Danemark
   </tr>
   <tr>
     <td align="center">
-      Exports and imports to and from Denmark & Norway from 1700 to 1780, William Playfair.[4]
+      Exports and imports to and from Denmark & Norway from 1700 to 1780, William Playfair.[5]
     </td>
   </tr>
 </table>
